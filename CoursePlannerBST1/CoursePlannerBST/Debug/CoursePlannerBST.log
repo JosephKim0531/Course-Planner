@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\Joe\Documents\SchoolWork\CS-300 Data Structures and Algorithms\milestone\CoursePlannerBST1\CoursePlannerBST\Main.cpp(73,33): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\Joe\Documents\SchoolWork\CS-300 Data Structures and Algorithms\milestone\CoursePlannerBST1\CoursePlannerBST\Main.cpp(116,36): warning C4018: '<': signed/unsigned mismatch
+  CoursePlannerBST.vcxproj -> D:\Joe\Documents\SchoolWork\CS-300 Data Structures and Algorithms\milestone\CoursePlannerBST1\CoursePlannerBST\Debug\CoursePlannerBST.exe
